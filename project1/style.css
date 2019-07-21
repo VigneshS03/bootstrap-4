@@ -1,0 +1,57 @@
+html,
+body{
+	height: 100%
+}
+
+#cover{
+	background: #222 url('stars.jpg') center center no-repeat;
+	background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display:flex;
+}
+
+#cover-caption{
+	width: 100%;
+	text-align: center
+	align-items: center;
+    
+}
+
+.form-group{
+    width: 300px;
+    text-align: : center;
+}
+
+.btn-outline.btn-sm {
+	color: white;
+	border-color: white;
+}
+
+img{
+	max-width: 100%;
+}
+
+.section-content{
+	padding: 5rem 0;
+}
+
+#about{
+	background: url(aboutus.jpg) center center no-repeat;
+	background-size: cover;
+}
+
+.about-text{
+	background: rgba(0,0,0,0.8);
+	color: white;
+	padding:1.875rem;
+}
+
+#footer-main{
+	background: black;
+	color: white;
+	font-size: 0.8rem;
+	padding: 2.5rem 0;
+}
